@@ -6,7 +6,7 @@
 //  Copyright © 2018 Kizito Nwose. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 public protocol CountryPickerViewDelegate: class {
     /// Called when the user selects a country from the list.
